@@ -1,0 +1,14 @@
+name venkat height : 1.78 weight : 67.0
+name sriram height : 1.68 weight : 79.0
+name venkat height : 1.67 weight : 67.0
+name venk height : 1.67 weight : 67.0
+name srir height : 1.76 weight : 67.0
+name brl height : 18.0 weight : 12.0
+name sri height : 2.0 weight : 60.0
+name venkat height : 1.67 weight : 67.0
+name srrir height : 1.7 weight : 68.0
+name naveen height : 1.67 weight : 67.0
+name bramhaiah height : 1.72 weight : 74.0
+name umapathy height : 1.69 weight : 67.0
+name test height : 45.0 weight : 33.0
+name damu height : 1.56 weight : 62.0
